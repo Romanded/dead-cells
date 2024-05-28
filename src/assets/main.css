@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Raleway";
+  src: url("@/assets/fonts/Raleway-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Berylium_bd";
+  src: url("@/assets/fonts/berylium_bd.ttf");
+}
+
+@font-face {
+  font-family: "ATCKrueger";
+  src: url("@/assets/fonts/ATCKrueger_Bold.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #F9CF87;
+  font-family: Raleway, sans-serif;
+}
+
+.header {
+  font-family: "Berylium_bd", sans-serif;
+}
